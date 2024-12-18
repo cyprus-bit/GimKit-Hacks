@@ -11,9 +11,7 @@
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on blooket.
 
 ## Features:
-- Default Scripts:
-    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Answer%20Bot.js">Answer Bot</a> - Make a bot automatically answer the question.
-    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Show%20Correct%20Answers.js">Show Correct Answers</a> - Hide wrong answers on the screen.
+- Default Scripts:    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Show%20Correct%20Answers.js">Show Correct Answers</a> - Hide wrong answers on the screen.
 - Trust No-One:
     - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Trust%20No-One/Show%20Imposters.js">Show Imposters</a> - This program will alert who the imposters are.
 - Classic:
